@@ -10,6 +10,8 @@ class Main extends React.Component {
   state = {
     data: [
       { item: "Eat Cake", status: "todo" },
+      { item: "Eat Egg", status: "todo" },
+      { item: "Eat Egg", status: "todo" },
       { item: "Eat Egg", status: "todo" }
     ],
     filter: "all"
