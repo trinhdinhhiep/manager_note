@@ -11,8 +11,8 @@ class Main extends React.Component {
     data: [
       { item: "Eat Cake", status: "todo" },
       { item: "Eat Egg", status: "todo" },
-      { item: "Eat Egg", status: "todo" },
-      { item: "Eat Egg", status: "todo" }
+      { item: "Eat chicken", status: "todo" },
+      { item: "Eat beefs", status: "todo" }
     ],
     filter: "all"
   };
